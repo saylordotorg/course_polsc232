@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC232: American Government"
+course_description: "An introductory course on American Government, designed also to prepare for the College Board's CLEP subject matter exam."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation’s “POLSC232 Final Exam”**
     Link: The Saylor Foundation’s [“POLSC232 Final

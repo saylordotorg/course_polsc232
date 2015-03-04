@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC232: American Government"
+course_description: "An introductory course on American Government, designed also to prepare for the College Board's CLEP subject matter exam."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Civil Rights and Civil Liberties** <span id="5"></span> 
 *The civil rights and civil liberties granted to Americans are central
 to the American government. Freedoms and rights were important factors

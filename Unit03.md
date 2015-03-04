@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC232: American Government"
+course_description: "An introductory course on American Government, designed also to prepare for the College Board's CLEP subject matter exam."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Political Parties, Campaigns, Elections, and Interest Groups**
 <span id="3"></span> 
 *There are innumerable factors that impact the American governmental

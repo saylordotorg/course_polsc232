@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC232: American Government"
+course_description: "An introductory course on American Government, designed also to prepare for the College Board's CLEP subject matter exam."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: American Political Behavior** <span id="2"></span> 
 *The diverse American public is a major component of the American
 political system. Politics touches the lives of all Americans – voters,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC232: American Government"
+course_description: "An introductory course on American Government, designed also to prepare for the College Board's CLEP subject matter exam."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: American Political Institutions** <span id="4"></span> 
 *When many people think of American government, the institutions –
 Congress, the president, and the Supreme Court – most often come to

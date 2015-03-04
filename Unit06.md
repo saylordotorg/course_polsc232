@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC232: American Government"
+course_description: "An introductory course on American Government, designed also to prepare for the College Board's CLEP subject matter exam."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Policymaking in American Government** <span id="6"></span> 
 *After having explored the foundations, political behavior, and
 institutions of the American political system, this final unit looks at

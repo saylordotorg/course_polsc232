@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC232: American Government"
+course_description: "An introductory course on American Government, designed also to prepare for the College Board's CLEP subject matter exam."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: American Political Foundations** <span id="1"></span> 
 *The American political system is rich in history. In order to gain a
 comprehensive understanding of American government, you will need to

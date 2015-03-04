@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC232: American Government"
+course_description: "An introductory course on American Government, designed also to prepare for the College Board's CLEP subject matter exam."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "POLSC232: American Government"
 ---------------------------------------------------
 
